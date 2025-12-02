@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Copy of ZenPath - Metaphysics & AI",
+  "description": "A comprehensive WeChat-style metaphysics app featuring BaZi charts, Flying Stars Feng Shui, Horoscope tracking, a metaphysical store, and AI-powered Feng Shui image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
